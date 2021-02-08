@@ -22,7 +22,7 @@ const products = [
     category: 'Family',
     price: 79.99,
     countInStock: 7,
-    rating: 4.0,
+    rating: 4.5,
     numReviews: 8,
   },
   {
