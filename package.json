@@ -1,0 +1,23 @@
+{
+  "name": "boardgeek-shop",
+  "version": "1.0.0",
+  "description": "Boardgeek (MERN)",
+  "main": "server.js",
+  "dependencies": {
+    "react-bootstrap": "^1.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arianrah/boardgeek-shop.git"
+  },
+  "author": "arianrah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arianrah/boardgeek-shop/issues"
+  },
+  "homepage": "https://github.com/arianrah/boardgeek-shop#readme"
+}
