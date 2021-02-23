@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Nemesis',
     image: '/images/nemesis.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'Wingspan',
     image: '/images/wingspan.jpg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'Half Truth',
     image: '/images/half-truth.png',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
     name: 'Azul Summer Pavilion',
     image: '/images/azul_summer_pavilion_pieces.jpg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
     name: 'Sonora',
     image: '/images/sonora_board_game.jpg',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
     name: 'The Search for Planet X',
     image: '/images/search_for_planet_x_2.jpg',
     description:
