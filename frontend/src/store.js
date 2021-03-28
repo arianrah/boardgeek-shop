@@ -10,7 +10,6 @@ import {
 import { cartReducer } from './reducers/cartReducers'
 
 import { userLoginReducer } from './reducers/userReducers'
-import FormImpl from 'react-bootstrap/esm/Form'
 
 const reducer = combineReducers({
 	productList: productListReducer,
